@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vic
 - 👀 I’m interested in everything related to tech, software and hardware! 
-- 🌱 I’m currently learning frontend development!
-- 💞️ I want to collaborate on different projects, mainly frontend focused
+- 🌱 I’m currently learning about networking !
+- 💞️ I want to collaborate on different projects, mainly backend focused
 - 📫 How to reach me: szternvictor@gmail.com
